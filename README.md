@@ -71,9 +71,9 @@ I focus on building **clean, scalable, and production-oriented systems** rather 
 ## 📫 Connect With Me
 
 - 📧 Email: **bkumar0823@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/your-linkedin-username**
+- 💼 LinkedIn: **https://www.linkedin.com/in/bkumar0823**
 - 🧑‍💻 GitHub: **https://github.com/bhupendra0823**
-- 🌐 Portfolio: **https://your-portfolio-domain**
+- 🌐 Portfolio: **https://bkumar0823.space**
 
 ---
 
