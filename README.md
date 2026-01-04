@@ -1,15 +1,89 @@
 <h1 align="center">Hi 👋, I'm Bhupendra Kumar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">
+Full-Stack Developer | GenAI-Focused Backend Engineer | FastAPI • React • MongoDB
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupendra0823&label=Profile%20views&color=0e75b6&style=flat" alt="bhupendra0823" /> </p>
-
-- 💬 Ask me about **MEAN & MERN, Deep Learning, OpenCV**
-
-- 📫 How to reach me **bkumar0823@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhupendra0823&label=Profile%20views&color=0e75b6&style=flat" alt="bhupendra0823" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I am a **full-stack software engineer** with experience building **web applications, REST APIs, and backend systems**, currently transitioning into **Generative AI–driven application development**.
+
+I have strong foundations in **LLMs, Retrieval-Augmented Generation (RAG), prompt engineering, and AI-powered backend architectures**, along with hands-on experience in **FastAPI, Node.js, React, MongoDB**, and **local LLM experimentation using Ollama**.
+
+I focus on building **clean, scalable, and production-oriented systems** rather than demo-only code.
+
+---
+
+## 🚀 Current Focus
+
+- Generative AI backend systems (RAG, LLM APIs)
+- FastAPI-based AI services
+- AI + Web application integration
+- Local LLMs & privacy-focused AI architectures
+- Backend-first system design
+
+---
+
+## 🧠 Key Skills
+
+### 💻 Programming Languages
+- Python
+- Java
+- JavaScript / TypeScript
+
+### 🌐 Backend Development
+- FastAPI
+- Node.js
+- Express.js
+- REST API Design
+- MVC & Modular Architecture
+
+### 🎨 Frontend Development
+- React.js
+- Angular
+- HTML, CSS
+
+### 🧠 Generative AI & AI Systems
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Embeddings & Semantic Search (conceptual + prototype level)
+- Local LLMs (Ollama)
+- AI-driven backend architecture design
+
+### 🗄️ Databases
+- MongoDB
+- Basic SQL concepts
+
+### ☁️ Cloud & Tools
+- AWS (Fundamentals)
+- Git & GitHub
+- Docker (Basics)
+- Linux (Basic usage)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **bkumar0823@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/your-linkedin-username**
+- 🧑‍💻 GitHub: **https://github.com/bhupendra0823**
+- 🌐 Portfolio: **https://your-portfolio-domain**
+
+---
+
+## 📌 What I’m Looking For
+
+- GenAI Engineer (Junior–Mid)
+- AI Backend Engineer
+- Full-Stack Developer with GenAI focus
+- AI-driven product teams
+
+---
+
+⭐ *If you find my projects useful, feel free to star the repositories and connect with me!*
